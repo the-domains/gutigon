@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[CREATIVE ENGINEER]]></title>
         <description><![CDATA[CREATIVE ENGINEER]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://gutigon.me/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Mar 2016 20:52:55 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 29 Mar 2016 20:56:36 GMT</lastBuildDate>
+        <atom:link href="http://gutigon.me/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[NMD]]></title>
+            <description><![CDATA[<article><h1>NMD</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0f0db0ac-6d7b-4684-878f-4bd66b489a43.jpg"></article>]]></description>
+            <link>http://gutigon.me/nmd/index.html</link>
+            <guid isPermaLink="false">49bd23cb-9da3-4186-b440-3c6701cc3de5</guid>
+            <pubDate>Tue, 29 Mar 2016 20:55:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[BETA]]></title>
-            <description><![CDATA[<h1>BETA</h1>]]></description>
-            <link>undefinedbeta/index.html</link>
+            <description><![CDATA[<article><h1>BETA</h1><p>Just testing The Grid IO Beta.</p></article>]]></description>
+            <link>http://gutigon.me/beta/index.html</link>
             <guid isPermaLink="false">c7411b70-25b7-4300-9583-66d11abe0b93</guid>
             <pubDate>Tue, 29 Mar 2016 20:52:13 GMT</pubDate>
         </item>
