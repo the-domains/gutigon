@@ -1,6 +1,6 @@
 name: GUTIGON
 favicon: null
-layout_spectrum: 0.4451572352554649
+layout_spectrum: 0.75043
 typography_spectrum: 0.10570563515648246
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#000000'
+    - '#ffce07'
+    - '#5b5336'
+    - '#eac017'
+    - '#37311e'
   brandStrength: 0.850782977649942
   lightness: 0.3949164857622236
   saturation: 0.5104044768959284
