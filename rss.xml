@@ -1,24 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[CREATIVE ENGINEER]]></title>
-        <description><![CDATA[CREATIVE ENGINEER]]></description>
-        <link>http://gutigon.me/</link>
+        <title><![CDATA[GUTIGON]]></title>
+        <description><![CDATA[GUTIGON]]></description>
+        <link>http://gutigon.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Mar 2016 20:56:36 GMT</lastBuildDate>
-        <atom:link href="http://gutigon.me/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 29 Mar 2016 22:13:49 GMT</lastBuildDate>
+        <atom:link href="http://gutigon.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[NMD]]></title>
             <description><![CDATA[<article><h1>NMD</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0f0db0ac-6d7b-4684-878f-4bd66b489a43.jpg"></article>]]></description>
-            <link>http://gutigon.me/nmd/index.html</link>
+            <link>http://gutigon.com/nmd/index.html</link>
             <guid isPermaLink="false">49bd23cb-9da3-4186-b440-3c6701cc3de5</guid>
             <pubDate>Tue, 29 Mar 2016 20:55:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BETA]]></title>
-            <description><![CDATA[<article><h1>BETA</h1><p>Just testing The Grid IO Beta.</p></article>]]></description>
-            <link>http://gutigon.me/beta/index.html</link>
-            <guid isPermaLink="false">c7411b70-25b7-4300-9583-66d11abe0b93</guid>
-            <pubDate>Tue, 29 Mar 2016 20:52:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
